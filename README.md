@@ -3,7 +3,7 @@ Sagemaker Anamoly Detection Example
 
 
 ## Cloning the Repository 
-> git clone https://github.com/GavinatorK/anamolydetection.git
+> git clone https://github.com/GavinatorK/anamolydetection.git <br>
 > git checkout master
 
 ## What you need to run this notebook 
